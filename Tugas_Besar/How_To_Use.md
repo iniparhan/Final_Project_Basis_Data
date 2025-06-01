@@ -16,7 +16,7 @@
 ├── dashboard.html   # Template halaman dashboard untuk admin / Halaman frontend dashboard
 ├── get_token.py     # Script untuk mendapatkan token JWT / Script untuk ambil token JWT (untuk autentikasi)
 ├── locust_file.py   # Script untuk load testing menggunakan Locust / Script load testing untuk simulasi user
-├── [database](https://drive.google.com/file/d/1gKOWsossYEnTNNyc73mQHbdJ5Bz_aoGC/view?usp=sharing)        # Link buat download Databases
+├── database         #  Databases
 ```
 
 ---
@@ -47,7 +47,7 @@
 
 3. **Jalankan database MySQL**
     
-    Sebelumnya download dulu database yang sudah kubuat, linknya ada diatas, pastikan MySQL server sudah berjalan dan database sudah siap yo rek.
+    Sebelumnya download dulu database yang sudah kubuat, ini linknya [database](https://drive.google.com/file/d/1gKOWsossYEnTNNyc73mQHbdJ5Bz_aoGC/view?usp=sharing), pastikan MySQL server sudah berjalan dan database sudah siap yo rek.
 
 4. **Jalankan aplikasi Flask**
 
