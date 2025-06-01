@@ -3,7 +3,7 @@
 ## Problem
 
 - waktu running `app.py` masih nampilin `Not Found`, perlu ada perbaikan 
-- di `http://127.0.0.1:5000/dsahboard` masih nampilin `"message": "Token is missing!"`, perlu ada perbaikan 
+- di `http://127.0.0.1:5000/dashboard` masih nampilin `"message": "Token is missing!"`, perlu ada perbaikan 
 - waktu running `dashboard.html`, cuma nampilin header, harusnya banyak data, perlu perbaikan
 - udah, itu doang si, sisa pengujian performa query SQL pake  SQLQueryStress aja
 
